@@ -1,8 +1,8 @@
 # 🖥️ Installer for Microsoft Office for macOS
 
 **Microsoft Office for macOS**
-<img width="1328" height="747" alt="image" src="https://github.com/user-attachments/assets/24ed6a53-6098-4338-a29f-4cf10a2b23f8" />
 
+![image](https://github.com/user-attachments/assets/24ed6a53-6098-4338-a29f-4cf10a2b23f8)
 
 **Your ultimate resource for macOS Office installers, serializers, and troubleshooting.**
 
@@ -16,7 +16,6 @@ If you find this project helpful and would like to support it, please consider d
 
 ## 📑 Table of Contents
 
-- [Stargazers Over Time](#stargazers-over-time)
 - [System Compatibility Overview](#system-compatibility-overview)
 - [Update History](#update-history-for-office-for-mac)
 - [Installation Steps](#steps)

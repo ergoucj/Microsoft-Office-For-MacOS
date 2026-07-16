@@ -1,6 +1,7 @@
 # 🖥️ Installer for Microsoft Office for macOS
 
-![Microsoft Office for macOS]<img width="1328" height="747" alt="image" src="https://github.com/user-attachments/assets/24ed6a53-6098-4338-a29f-4cf10a2b23f8" />
+** Microsoft Office for macOS**
+<img width="1328" height="747" alt="image" src="https://github.com/user-attachments/assets/24ed6a53-6098-4338-a29f-4cf10a2b23f8" />
 
 
 **Your ultimate resource for macOS Office installers, serializers, and troubleshooting.**
